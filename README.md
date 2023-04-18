@@ -1,4 +1,4 @@
-# AI MERN Stack Image Generating Web Application
+# AI Image Generating Web Application
 ### Site preview [Dallie-2.0-stable-diffusion](https://dallie-2-openai-stable-diffusion.netlify.app/).
 This is a web application that allows users to generate beautiful and unique images using Artificial Intelligence. The application is built using the MERN stack (MongoDB, Express, React, and Node.js) and is hosted on Render. The source code for the application is available on GitHub and the application itself is hosted on Netlify.
 
